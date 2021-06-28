@@ -1,13 +1,13 @@
-package br.com.lucas.guruspring;
+package br.com.lucas.spring5webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GuruspringApplication {
+public class Spring5webappApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GuruspringApplication.class, args);
+        SpringApplication.run(Spring5webappApplication.class, args);
     }
 
 }
