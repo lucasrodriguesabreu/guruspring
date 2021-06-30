@@ -59,7 +59,7 @@ public class Author {
 
     @Override
     public String toString(){
-        return "Autor do id " + id + " chama-se " + firstName + " " + lastName + " e os seus livros são " + books + ".";
+        return "Autor do id " + id + " chama-se " + firstName + " " + lastName + ".";
     }
 
     @Override

@@ -75,7 +75,7 @@ public class Book {
 
     @Override
     public String toString(){
-        return "O livro possui o id " + id + " seu título é " + title + " seu ISBN é " + isbn + " e os autores são " + authors + ".";
+        return "O livro possui o id " + id + " seu título é " + title + " seu ISBN é " + isbn + ".";
     }
 
     @Override
